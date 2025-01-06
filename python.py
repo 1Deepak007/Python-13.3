@@ -36,3 +36,14 @@ def connect_to_database():
 
 if __name__ == "__main__":
     connect_to_database()
+
+
+
+
+#%%
+msg = "Hello World"
+print(msg)
+
+#%%
+msg = "Hello again"
+print(msg)
